@@ -1,4 +1,3 @@
-# Welcome to Jack Jonghwi Kang's GitHub Profile! 👋
 
 ## About Me
 
