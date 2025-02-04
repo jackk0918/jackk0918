@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! I'm **Jack Jonghwi Kang**, a senior undergraduate student majoring in Physics at **Seoul National University**. I am currently working as a research intern at the **Seoul National University Neutrino Physics Lab**, with a focus on atmospheric neutrino oscillation and mass effect.
+Hello! I'm **Jonghwi "Jack" Kang**, a senior undergraduate student majoring in Physics at **Seoul National University**. I am currently working as a research intern at the **Seoul National University Neutrino Physics Lab**, with a focus on atmospheric neutrino oscillation and mass effect.
 
 - 📧 **Email:** [jackkangjh@gmail.com](mailto:jackkangjh@gmail.com)
 - 🌐 **Website:** [jackk0918.github.io](https://jackk0918.github.io)
