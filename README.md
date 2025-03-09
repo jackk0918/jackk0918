@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! I'm **Jonghwi "Jack" Kang**, a senior undergraduate student majoring in Physics at **Seoul National University**. I am currently working as a research intern at the **Seoul National University Neutrino Physics Lab**, with a focus on atmospheric neutrino oscillation and mass effect.
+Hello! I'm **Jonghwi "Jack" Kang**, a **Seoul National University** graduate with a BSc in Physics. Up until recently, I was working as a research intern at the **Seoul National University Neutrino Physics Lab**, with a focus on atmospheric neutrino oscillation and mass effect.
 
 - 📧 **Email:** [jackkangjh@gmail.com](mailto:jackkangjh@gmail.com)
 - 🌐 **Website:** [jackk0918.github.io](https://jackk0918.github.io)
@@ -15,10 +15,10 @@ Hello! I'm **Jonghwi "Jack" Kang**, a senior undergraduate student majoring in P
 
 ## Projects
 
-Here are some of the projects I've been working on:
+Here are some of the projects I've worked on:
 
 - **Atmospheric Neutrino Oscillation Sensitivity Study**
 - **Neutrino Mass Effect Study**
 - **Super Kamiokande Injector Stability Automatic Plot Generator**
 
-© 2024 **Jack Jonghwi Kang**
+© 2025 **Jack Jonghwi Kang**
